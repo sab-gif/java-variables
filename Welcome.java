@@ -4,7 +4,7 @@
 //Compila y ejecuta el archivo
 //El resultado correcto es poder ver en la terminal la frase: Welcome FemCoders to Java World!
 
-public class Main {
+public class Welcome {
     public static void main(String[] args) {
         System.out.println("Welcome Femcoders to Java World");
     }
